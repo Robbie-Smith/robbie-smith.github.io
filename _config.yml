@@ -21,12 +21,11 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: robert.smith@something.com
-  github: https://github.com/robbie-smith
+  github: robbie-smith
   instagram:
-  linkedin: www.linkedin.com/in/robbie-smith
+  linkedin: robbie-smith
   rss: rss
-  twitter: amit_merchant
-  stackoverflow:
+  # stackoverflow:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
