@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
+name: Thoughts and Other Things
 
 # Name of the author
-author: Amit Merchant
+author: Robbie Smith
 
 # Short bio or description (displayed in the header)
 description: An elegant Jekyll theme
@@ -20,42 +20,33 @@ avatar: /images/reverie.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email: amit.d.merchant@gmail.com
-  facebook:
-  flickr:
-  github: amitmerchant1990/reverie
+  email: robert.smith@something.com
+  github: https://github.com/robbie-smith
   instagram:
-  linkedin: 
-  pinterest:
+  linkedin: www.linkedin.com/in/robbie-smith
   rss: rss
   twitter: amit_merchant
-  stackoverflow: 
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  playconsole:
-  mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
+  stackoverflow:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: 
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-11
-
+# google_analytics: G-3C3L8CV4C6
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
-#google_analytics_ga4: G-GABC1DEFG
+google_analytics_ga4: G-3C3L8CV4C6
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.amitmerchant.com/reverie
-enforce_ssl: https://www.amitmerchant.com/reverie
+url: http://www.robbiesmith.net/
+enforce_ssl: https://www.robbiesmith.net/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/reverie"
+# baseurl: "/reverie"
 
 #
 # !! You don't need to change any of the configuration flags below !!
